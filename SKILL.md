@@ -1,6 +1,6 @@
 ---
 name: pact-flow
-description: PACT 产品 AI 契约化交付流程。当项目中存在 PACT.md，或用户提到「用 PACT / 契约化交付 / 按阶段交付 / 页面设计契约 / API 接口契约」时启用。指导 agent 按 需求结构化→页面设计契约→API接口契约→前端Mock→后端API→联调验收 六阶段工作；禁止跳过契约直接写代码，改代码前必须先更新对应契约文件。
+description: PACT 契约化交付流程。项目存在 PACT.md 或用户提到「PACT/契约化交付/页面设计契约/API 接口契约」时启用；按 需求→页面契约→API契约→Mock→后端→联调 六阶段执行，改代码前必须先改契约。
 version: 1.1.0
 ---
 
