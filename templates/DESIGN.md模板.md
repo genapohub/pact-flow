@@ -4,6 +4,8 @@
 > Claude Code / Codex / Cursor / Trae / Open Design 会按此风格生成 UI。
 > 规范来源：Google Stitch 的 DESIGN.md 规范，9 个模块。派生自 `awesome-design-md`。
 >
+> 交叉引用：Stitch 的 **AI 生成 UI 工具本体**（文字/草图→UI）沉淀于 `ui-designer-guide`，本文件仅引用其 DESIGN.md 规范作为设计契约。
+>
 > 使用方式：把 `[方括号]` 内容替换成你的品牌，删掉不适用的行，保留结构。
 > 示例值以「飞书风格：专业、克制、蓝紫主色」为例，可直接替换成你的品牌。
 

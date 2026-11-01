@@ -54,6 +54,7 @@ PRD ─→ 页面设计契约 ─→ API 契约 ─→ 前端 Mock ─→ 后端
 一份**纯 Markdown** 的视觉设计系统文档，共 9 个模块：视觉主题、色板与语义命名、字体规则、组件样式、布局原则、阴影层级、Do's and Don'ts、响应式行为、Agent Prompt Guide。
 
 它源自 Google Stitch 的「Vibe Design」概念，被 `VoltAgent/awesome-design-md`（GitHub，MIT，8 万+ star）做成了可复用的素材库，`vibeui.top` 是它的可视化索引站（112 个品牌模板）。
+> 交叉引用：Stitch 的 **AI 生成 UI 工具本体**（文字/草图→UI）沉淀于 `ui-designer-guide`，本文件仅引用其 DESIGN.md 规范概念。
 
 ### 2.2 为什么它能当桥梁
 
